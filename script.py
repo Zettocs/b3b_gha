@@ -1,7 +1,7 @@
 import random
 
 def get_double(number: int):
-    return number * 2
+    return number * 4
 
 myRandomNumber = random.randint(1, 100)
 
