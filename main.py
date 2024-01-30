@@ -12,4 +12,4 @@ def return_double(number: int):
     return get_double(number)
 
 def get_double(number: int):
-    return number * 2
+    return number * 4
